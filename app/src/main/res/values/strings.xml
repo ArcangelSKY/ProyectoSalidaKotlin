@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoSalidaKotlin</string>
+    <string name="api_cursos">"https://courses-fake-api.herokuapp.com/"</string>
+
+</resources>
